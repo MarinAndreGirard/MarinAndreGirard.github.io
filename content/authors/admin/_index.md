@@ -3,15 +3,12 @@
 title: Marin Girard
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+# name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Marin
 last_name: Girard
 
-# Status emoji
-status: ''
-  icon: ''
 
 # Is this the primary user of the site?
 superuser: true
