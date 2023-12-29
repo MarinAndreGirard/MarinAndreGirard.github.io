@@ -18,7 +18,7 @@ role: Student in Laboratory of Quantum Information and Computation
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: The Federal Polytechnic School of Lausanne (EPFL)
+  - name: Swiss Federal Institute of Technology in Lausanne (EPFL)
     url: https://www.epfl.ch/en/
 
 # Short bio (displayed in user profile at end of posts)
